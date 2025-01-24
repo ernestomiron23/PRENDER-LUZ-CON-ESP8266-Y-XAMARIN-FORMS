@@ -1,0 +1,15 @@
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\bin\Debug\netstandard2.0\RevolverX1.deps.json
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\bin\Debug\netstandard2.0\RevolverX1.dll
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\bin\Debug\netstandard2.0\ref\RevolverX1.dll
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\bin\Debug\netstandard2.0\RevolverX1.pdb
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\RevolverX1.csproj.AssemblyReference.cache
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\RevolverX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\RevolverX1.AssemblyInfoInputs.cache
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\RevolverX1.AssemblyInfo.cs
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\RevolverX1.csproj.CoreCompileInputs.cache
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\RevolverX1.dll
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\refint\RevolverX1.dll
+C:\Users\ernesto23\source\repos\RevolverX1\RevolverX1\RevolverX1\obj\Debug\netstandard2.0\RevolverX1.pdb

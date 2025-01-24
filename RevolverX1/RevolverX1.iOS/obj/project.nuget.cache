@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICq6JvGMmdOLK1qXGCLWXxLszfDwlceSPo3cHCQNVL65ddb8c3Y6Wt3ufrXAVTUb/OoCfI/AoIr6robp4e7EyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ernesto23\\source\\repos\\RevolverX1\\RevolverX1\\RevolverX1.iOS\\RevolverX1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ernesto23\\.nuget\\packages\\system.net.sockets\\4.3.0\\system.net.sockets.4.3.0.nupkg.sha512",
+    "C:\\Users\\ernesto23\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ernesto23\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ernesto23\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\ernesto23\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
